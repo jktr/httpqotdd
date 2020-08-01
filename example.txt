@@ -1,0 +1,13 @@
+first string
+
+# comment
+second one is
+a multiline string
+
+third one has
+\
+a blank line
+
+# also a comment
+
+\#fourthstring 
